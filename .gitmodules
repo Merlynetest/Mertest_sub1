@@ -1,0 +1,3 @@
+[submodule "ghost_source"]
+	path = ghost_source
+	url = https://github.com/ghostcoder007/ghostcoder007-submodule.git
